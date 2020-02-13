@@ -5,3 +5,5 @@ https://www.google.com/search?q=agm+kml+layer+example&rlz=1C1ASUC_enIN878IN878&o
 https://stackblitz.com/edit/agm-map-print-gap
 https://stackblitz.com/edit/angular-google-maps-demo-3dhbk6?file=app%2Fapp.component.html
 https://stackblitz.com/edit/travel-marker-angular-agm
+https://stackoverflow.com/questions/46763420/how-to-alternate-color-of-polyline-with-angular-2-using-agm-map-agm-polyline
+https://gitter.im/SebastianM/angular2-google-maps/archives/2017/11/07
